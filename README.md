@@ -1,6 +1,6 @@
 # LoRa-PCB
 
-## Assignment 1
+## Assignment
 One circuit is given (PNG form), which is supposed to be used as a sensor node. It contains LoRa module, XIAO Esp32 s3 module, DHT11 (temperature & humidity), LDR (Light dependant resistor) and few other basic components. This circuit is used to send Temperature, Humidity and Light intensity values wirelesly over LoRa to Lora Receiver.
 
 ### LoRa Tx Diagram
