@@ -20,7 +20,7 @@ Also note that below files are mendatory to be present in the repo for successfu
 1. PCB layout file
 2. Circuit diagram 
 3. Screenshots of both 
-4. Prepare a small readme along with the attached screenshots (somthing similar to this one).
+4. Prepare a small `README` along with the attached screenshots (somthing similar to this one).
 
 ### NOTE
 Above circuit is made in `EasyEDA` although you are free to use any software of your choice but we recommend using `EasyEDA`.
